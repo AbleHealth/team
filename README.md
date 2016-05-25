@@ -59,7 +59,7 @@ You act on problems when you see them. You work in service of outcomes, not appe
 
 We are committed to creating and sustaining a culture that embodies diverse walks of life, ideas, genders, ages, races, cultures, sexual orientations, abilities and other unique qualities of our employees. We strive to offer a workplace where every employee feels empowered by the ways in which we are different, as well as the ways in which we are the same. 
 
-Diversity is not just good for the world; it also makes teams [more innovative](http://www.scientificamerican.com/article/how-diversity-makes-us-smarter/?mc_cid=88bdd375c6&mc_eid=dedfd7ab71) and [higher performing](http://www.mckinsey.com/business-functions/organization/our-insights/is-there-a-payoff-from-top-team-diversity?mc_cid=88bdd375c6&mc_eid=dedfd7ab71). We all have [unconscious bias](http://www.fastcompany.com/3036627/strong-female-lead/youre-more-biased-than-you-think?mc_cid=88bdd375c6&mc_eid=dedfd7ab71), but we can control it. Consider the following practices as you go about your day (outlined by [SYPartners](https://www.sypartners.com/journal/diversity-at-work-actions-speak-louder-than-words/)):
+Diversity is not just good for the world; it also makes teams [more innovative](http://www.scientificamerican.com/article/how-diversity-makes-us-smarter/?mc_cid=88bdd375c6&mc_eid=dedfd7ab71){:target="_blank"} and [higher performing](http://www.mckinsey.com/business-functions/organization/our-insights/is-there-a-payoff-from-top-team-diversity?mc_cid=88bdd375c6&mc_eid=dedfd7ab71). We all have [unconscious bias](http://www.fastcompany.com/3036627/strong-female-lead/youre-more-biased-than-you-think?mc_cid=88bdd375c6&mc_eid=dedfd7ab71){:target="_blank"}, but we can control it. Consider the following practices as you go about your day (outlined by [SYPartners](https://www.sypartners.com/journal/diversity-at-work-actions-speak-louder-than-words/){:target="_blank"}):
 
 * If you face an important problem where the way forward is unknown, consider what can be gained from less-heard perspectives rather than consulting the usual suspects
 
@@ -131,7 +131,7 @@ Options for unblocking yourself due to lack of ideas or focus:
 
 ## Navigating ambiguity
 
-In much of our work, we will never have all of the facts or have considered all possible scenarios. Thus, we need to work together to find informed and creative ways while living our bias toward action. Here is some guidance for moving forward, following the [design thinking method developed at Stanford](https://dschool.stanford.edu/sandbox/groups/designresources/wiki/36873/attachments/74b3d/ModeGuideBOOTCAMP2010L.pdf?sessionID=e29682c7569e583344b123a7116d9172e65e8531):
+In much of our work, we will never have all of the facts or have considered all possible scenarios. Thus, we need to work together to find informed and creative ways while living our bias toward action. Here is some guidance for moving forward, following the [design thinking method developed at Stanford](https://dschool.stanford.edu/sandbox/groups/designresources/wiki/36873/attachments/74b3d/ModeGuideBOOTCAMP2010L.pdf?sessionID=e29682c7569e583344b123a7116d9172e65e8531){:target="_blank"}:
 
 1. Sense the need for design thinking. This could surface from a fundamental misalignment among disciplines or a lack of confidence in any known approaches for a given project, task, or process. Pause and suggest taking a step back in order to find common ground.
 
@@ -157,13 +157,13 @@ First, decide whether you are *discussing*, *debating*, or *teaching*. Depending
 
 * Teach relevant information to someone less familiar with the subject
 
-Remember that the goal is to find truth, not to win. And that we are all subject to the [Dunning-Kruger effect](http://rationalwiki.org/wiki/Dunning-Kruger_effect), a failure to accurately assess our own incompetence. 
+Remember that the goal is to find truth, not to win. And that we are all subject to the [Dunning-Kruger effect](http://rationalwiki.org/wiki/Dunning-Kruger_effect){:target="_blank"}, a failure to accurately assess our own incompetence. 
 
 At some point, decisions must be reached. Know when to move on, and establish a method for converging on a path forward in order to exercise our bias toward action.
 
 ## Dealing with conflict
 
-In our work, we embrace healthy and respectful conflict as a way of getting to better solutions. Research on conflict by [Jehn](http://www.jstor.org/stable/2393737?seq=1#page_scan_tab_contents) and later elaborated on by [Bendersky and Hays](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1298494) has identified four different types of interpersonal conflict. Before dealing with the conflict, establish which type of conflict you are dealing with.
+In our work, we embrace healthy and respectful conflict as a way of getting to better solutions. Research on conflict by [Jehn](http://www.jstor.org/stable/2393737?seq=1#page_scan_tab_contents){:target="_blank"} and later elaborated on by [Bendersky and Hays](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1298494){:target="_blank"} has identified four different types of interpersonal conflict. Before dealing with the conflict, establish which type of conflict you are dealing with.
 
 * *Relationship conflicts* consist of disagreements related to personalities, attitudes, and perceptions
 
@@ -193,7 +193,7 @@ A good way to prevent conflicts is to get to know the people you work with perso
 
 ## Exchanging feedback effectively
 
-In order to grow as curious experts, we must openly given and receive feedback. We strive toward a compassionate culture that solicits feedback. Feedback is more effective when emphasizing shared goals and good intent by the person giving feedback. Toward that end, consider the [non-violent communication approach outlined by Innerspace](http://www.helloinnerspace.org/private/AbleHealth_communication_workshop_20160418) as a guide.
+In order to grow as curious experts, we must openly given and receive feedback. We strive toward a compassionate culture that solicits feedback. Feedback is more effective when emphasizing shared goals and good intent by the person giving feedback. Toward that end, consider the [non-violent communication approach outlined by Innerspace](http://www.helloinnerspace.org/private/AbleHealth_communication_workshop_20160418){:target="_blank"} as a guide.
 
 When giving feedback:
 
