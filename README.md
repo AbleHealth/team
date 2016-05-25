@@ -9,7 +9,7 @@ Being an Able team member means participating in a collective purpose and way of
 3. [Values: who we are](#values-who-we-are)
    - [Curious experts](#curious-experts)
    - [Comrades in service](#comrades-in-service)
-   - [Biased toward action](#comrades-in-service)
+   - [Biased toward action](#biased-toward-action)
 4. [Team norms: how we work together](#team-norms-how-we-work-together)
    - [Honoring diversity](#honoring-diversity)
    - [Sharing knowledge](#sharing-knowledge)
