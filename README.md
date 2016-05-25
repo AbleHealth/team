@@ -4,27 +4,26 @@ Being an Able team member means participating in a collective purpose and way of
 
 # Table of contents
 
-1. [Mission: why we exist](#Mission)
-
-Vision: what we hope to achieve
-Values: who we are
-Curious experts
-Comrades in service
-Biased toward action
-Team norms: how we work together
-Honoring diversity
-Sharing knowledge
-Unblocking yourself
-Navigating ambiguity
-Surfacing disagreements
-Dealing with conflict
-Exchanging feedback effectively
-Interacting with customers
-Company policies: our expectations of each other
-All-hands meetings
-Availability etiquette
-Being “on call”
-Vacation
+1. [Mission: why we exist](#mission-why-we-exist)
+2. [Vision: what we hope to achieve](#vision-what-we-hope-to-achieve)
+3. [Values: who we are](#values-who-we-are)
+   - [Curious experts](#curious-experts)
+   - [Comrades in service](#comrades-in-service)
+   - [Biased toward action](#comrades-in-service)
+4. [Team norms: how we work together](#team-norms-how-we-work-together)
+   - [Honoring diversity](#honoring-diversity)
+   - [Sharing knowledge](#sharing-knowledge)
+   - [Unblocking yourself](#unblocking-yourself)
+   - [Navigating ambiguity](#navigating-ambiguity)
+   - [Surfacing disagreements](#surfacing-disagreements)
+   - [Dealing with conflict](#dealing-with-conflict)
+   - [Exchanging feedback effectively](#exchanging-feedback-effectively)
+   - [Interacting with customers](#interacting-with-customers)
+5. [Company policies: our expectations of each other](#company-policies-our-expectations-of-each-other)
+   - [Team meetings](#team-meetings)
+   - [Availability etiquette](#availability-etiquette)
+   - [Being “on call”](#being-on-call)
+   - [Vacation](#vacation)
 
 # Mission: why we exist
 
