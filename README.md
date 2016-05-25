@@ -4,7 +4,8 @@ Being an Able team member means participating in a collective purpose and way of
 
 # Table of contents
 
-1. [Mission: why we exist](#Mission: why we exist)
+1. [Mission: why we exist](#Mission)
+
 Vision: what we hope to achieve
 Values: who we are
 Curious experts
