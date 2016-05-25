@@ -1,18 +1,29 @@
----
-title: Able Health Culture Guide
-layout: post
-author: steve
-permalink: /guide/
-source-id: 17AzmKm59-jDpqknzRSgd6pVHBBmaQrYmiRbcNNZIVpM
-published: true
----
-Able Health Culture Guide
+# Able Health Culture Guide
 
 Being an Able team member means participating in a collective purpose and way of working. This guide is a living document that outlines our current intentions for what we do and how we work. Like our company, it is an evolving entity, open to experimentation and feedback.
 
 # Table of contents
 
-[[TOC]]
+1. [Mission: why we exist](#Mission: why we exist)
+Vision: what we hope to achieve
+Values: who we are
+Curious experts
+Comrades in service
+Biased toward action
+Team norms: how we work together
+Honoring diversity
+Sharing knowledge
+Unblocking yourself
+Navigating ambiguity
+Surfacing disagreements
+Dealing with conflict
+Exchanging feedback effectively
+Interacting with customers
+Company policies: our expectations of each other
+All-hands meetings
+Availability etiquette
+Being “on call”
+Vacation
 
 # Mission: why we exist
 
