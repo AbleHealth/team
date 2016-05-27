@@ -17,6 +17,7 @@ Being an Able team member means participating in a collective purpose and way of
    - [Navigating ambiguity](#navigating-ambiguity)
    - [Surfacing disagreements](#surfacing-disagreements)
    - [Dealing with conflict](#dealing-with-conflict)
+   - [Making mistakes](#making-mistakes)
    - [Exchanging feedback effectively](#exchanging-feedback-effectively)
    - [Interacting with customers](#interacting-with-customers)
 5. [Company policies: our expectations of each other](#company-policies-our-expectations-of-each-other)
@@ -190,6 +191,35 @@ When dealing with a conflict, consider the following steps:
 7. Escalate conflict if unresolved and detrimental to work.
 
 A good way to prevent conflicts is to get to know the people you work with personally. Do you know what motivates them? Or what experiences have shaped their work style? Or the overall context shaping their decisions and actions?
+
+## Making mistakes
+
+We are not perfect, and we don’t pretend to be. We strive to do the best job we can. As comrades in service, when we make mistakes, we acknowledge them with humility, resolve them as quickly as we can, and learn from them so that we grow stronger.
+
+When you make an mistake that impacts the team, product, or business in a significant way:
+
+* Take responsibility for it to the extent that it’s productive to do so.
+
+* Ask: “How can I resolve this most effectively?” 
+
+* Focus your actions and energy on minimizing the impact of the mistake. Try to minimize energy spent on beating yourself up or replaying the event in your head.
+
+* Trust and expect your team members to help you through hard times.
+
+* After a crisis is resolved, take some time to reflect alone or with the impacted team members on how to avoid similar issues in the future.
+
+* Share learnings with the team if appropriate.
+
+When a colleague makes a mistake: 
+
+* Avoid making accusations or placing blame.
+
+* Ask: “How can I help resolve this most effectively?”
+
+* Support affected team members regardless of who’s at fault.
+
+* Check in with others on how they are feeling, and see if there is anything you can do to help them.
+
 
 ## Exchanging feedback effectively
 
