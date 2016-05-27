@@ -10,6 +10,7 @@ Being an Able team member means participating in a collective purpose and way of
    - [Curious experts](#curious-experts)
    - [Comrades in service](#comrades-in-service)
    - [Biased toward action](#biased-toward-action)
+   - [Generosity of spirit](#generosity-of-spirit)
 4. [Team norms: how we work together](#team-norms-how-we-work-together)
    - [Honoring diversity](#honoring-diversity)
    - [Sharing knowledge](#sharing-knowledge)
@@ -33,7 +34,7 @@ Our mission is our singular purpose for existing. All of our work should contrib
 
 # Vision: what we hope to achieve
 
-Our vision is the future state we hope to create in pursuit of our mission: 
+Our vision is the future state we hope to create in pursuit of our mission:
 
 **Able Health will be the source of truth for quality-based payments to all US physicians.**
 
@@ -41,23 +42,27 @@ Our vision is the future state we hope to create in pursuit of our mission:
 
 Our values are what we believe to be true and how we conduct ourselves at all times, internally and externally. They are the qualities that define an Abler, to be used as a moral compass and screening for new team members. We are...
 
-## Curious experts 
+## Curious experts
 
 You hungrily gather new knowledge. You honor a diversity of strengths and perspectives. You welcome respectful debate. You make space for everyone to get their ideas on the table. You listen with an open mind. You bring all available information to bear on your decisions. You are a mentor and a mentee for life.
 
 ## Comrades in service
 
-You want to improve the lives of others, whether those people are customers, coworkers, or strangers. You recognize that small interpersonal actions build lifelong relationships. You respect that everyone has deeply personal motivators. You want to lift up those around you rather than promote yourself. You seek to spread delight. 
+You want to improve the lives of others, whether those people are customers, coworkers, or strangers. You recognize that small interpersonal actions build lifelong relationships. You respect that everyone has deeply personal motivators. You want to lift up those around you rather than promote yourself. You seek to spread delight.
 
-## Biased toward action 
+## Biased toward action
 
 You act on problems when you see them. You work in service of outcomes, not appearances. You deliver incrementally to get to the right solution faster. You follow through on your promises. You produce high-quality work. You speak up when you disagree. You communicate directly. You own your failures, and you learn from them.
+
+## Generosity of spirit
+
+ You invest in others, not only tasks. You have patience and perspective to lift the skills and expertise of those around you, because you know there only so much an individual can accomplish on their own. You spend time to make sure that more junior or newer Able team members not only understand what they are doing, but also **why** they are doing it.
 
 # Team norms: how we work together
 
 ## Honoring diversity
 
-We are committed to creating and sustaining a culture that embodies diverse walks of life, ideas, genders, ages, races, cultures, sexual orientations, abilities and other unique qualities of our employees. We strive to offer a workplace where every employee feels empowered by the ways in which we are different, as well as the ways in which we are the same. 
+We are committed to creating and sustaining a culture that embodies diverse walks of life, ideas, genders, ages, races, cultures, sexual orientations, abilities and other unique qualities of our employees. We strive to offer a workplace where every employee feels empowered by the ways in which we are different, as well as the ways in which we are the same.
 
 Diversity is not just good for the world; it also makes teams [more innovative](http://www.scientificamerican.com/article/how-diversity-makes-us-smarter/?mc_cid=88bdd375c6&mc_eid=dedfd7ab71) and [higher performing](http://www.mckinsey.com/business-functions/organization/our-insights/is-there-a-payoff-from-top-team-diversity?mc_cid=88bdd375c6&mc_eid=dedfd7ab71). We all have [unconscious bias](http://www.fastcompany.com/3036627/strong-female-lead/youre-more-biased-than-you-think?mc_cid=88bdd375c6&mc_eid=dedfd7ab71), but we can control it. Consider the following practices as you go about your day (outlined by [SYPartners](https://www.sypartners.com/journal/diversity-at-work-actions-speak-louder-than-words/)):
 
@@ -79,7 +84,7 @@ Diversity is not just good for the world; it also makes teams [more innovative](
 
 ## Sharing knowledge
 
-As curious experts, our collective knowledge is one of our greatest assets. Always consider the most effective way to share knowledge, not just for short-term gains, but also helping the team in the long term. 
+As curious experts, our collective knowledge is one of our greatest assets. Always consider the most effective way to share knowledge, not just for short-term gains, but also helping the team in the long term.
 
 * Collaborate or pair in order to share knowledge as it is created. Prefer this when:
 
@@ -107,7 +112,7 @@ As curious experts, our collective knowledge is one of our greatest assets. Alwa
 
 ## Unblocking yourself
 
-Everyone at Able Health is a mentor and a mentee. Do not hesitate to ask for help, even if you think you should know the answer. 
+Everyone at Able Health is a mentor and a mentee. Do not hesitate to ask for help, even if you think you should know the answer.
 
 Options for unblocking yourself due to lack of information:
 
@@ -149,7 +154,7 @@ In much of our work, we will never have all of the facts or have considered all 
 
 As curious experts, we work in service of the truth. To that end, we uphold the "obligation to dissent" with any statement we disagree with. However, it should be done carefully so as to consider all viable facts and ideas and preserve an open environment. Assume that the other person has good intentions and is putting forth their best effort.
 
-First, decide whether you are *discussing*, *debating*, or *teaching*. Depending on your credibility on the particular subject relative to the other person, you might: 
+First, decide whether you are *discussing*, *debating*, or *teaching*. Depending on your credibility on the particular subject relative to the other person, you might:
 
 * Put forth a question for discussion
 
@@ -157,7 +162,7 @@ First, decide whether you are *discussing*, *debating*, or *teaching*. Depending
 
 * Teach relevant information to someone less familiar with the subject
 
-Remember that the goal is to find truth, not to win. And that we are all subject to the [Dunning-Kruger effect](http://rationalwiki.org/wiki/Dunning-Kruger_effect), a failure to accurately assess our own incompetence. 
+Remember that the goal is to find truth, not to win. And that we are all subject to the [Dunning-Kruger effect](http://rationalwiki.org/wiki/Dunning-Kruger_effect), a failure to accurately assess our own incompetence.
 
 At some point, decisions must be reached. Know when to move on, and establish a method for converging on a path forward in order to exercise our bias toward action.
 
@@ -253,11 +258,11 @@ While we each bring a different perspective and set of expertise to customer int
 
 ## Availability etiquette
 
-* You should be generally available during PST 10am - 6pm. 
+* You should be generally available during PST 10am - 6pm.
 
 * The general rule is, make sure your availability is not a blocker for the team. Set expectations for your own schedule with people you regularly work with.
 
-* If you'll be unavailable (unreachable) for 1 or more hours during 10am - 6pm: 
+* If you'll be unavailable (unreachable) for 1 or more hours during 10am - 6pm:
 
     * Email your team(s) so they know at least 24 hours in advance (ideally). It's helpful to remind folks at standup, too.
 
@@ -287,7 +292,7 @@ While we each bring a different perspective and set of expertise to customer int
 
 * Able Health does not have an official number of PTO days. Team members are expected to take the time they need to remain enthusiastic and productive at work.
 
-* Add vacation to the Availability Calendar and notify the team by email before you leave. 
+* Add vacation to the Availability Calendar and notify the team by email before you leave.
 
 * If you will be out for a full day or more, try to notify team members a week in advance.
 
