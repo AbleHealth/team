@@ -311,7 +311,7 @@ While we each bring a different perspective and set of expertise to customer int
 
 * Set expectations with your team about your particular availability and communication preferences (e.g. if people need to get in touch over the weekend, should they call? email?).
 
-* Expect to be call once in awhile in crunch times.
+* Expect to be on call once in awhile in crunch times.
 
 ## Vacation
 
