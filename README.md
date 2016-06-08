@@ -42,21 +42,21 @@ Our vision is the future state we hope to create in pursuit of our mission:
 
 Our values are what we believe to be true and how we conduct ourselves at all times, internally and externally. They are the qualities that define an Abler, to be used as a moral compass and screening for new team members. We are...
 
-## Curious experts 
+## Curious experts :bow:
 
 You hungrily gather new knowledge. You honor a diversity of strengths and perspectives. You welcome respectful debate. You make space for everyone to get their ideas on the table. You listen with an open mind. You bring all available information to bear on your decisions. You are a mentor and a mentee for life.
 
-## Comrades in service
+## Comrades in service :couple:
 
 You want to improve the lives of others, whether those people are customers, coworkers, or strangers. You recognize that small interpersonal actions build lifelong relationships. You respect that everyone has deeply personal motivators. You want to lift up those around you rather than promote yourself. You seek to spread delight. 
 
-## Biased toward action 
+## Biased toward action :runner:
 
 You act on problems when you see them. You work in service of outcomes, not appearances. You deliver incrementally to get to the right solution faster. You follow through on your promises. You produce high-quality work. You speak up when you disagree. You communicate directly. You own your failures, and you learn from them.
 
 # Team norms: how we work together
 
-## Honoring diversity
+## Honoring diversity :earth_americas:
 
 We are committed to creating and sustaining a culture that embodies diverse walks of life, ideas, genders, ages, races, cultures, sexual orientations, abilities and other unique qualities of our employees. We strive to offer a workplace where every employee feels empowered by the ways in which we are different, as well as the ways in which we are the same. 
 
@@ -78,7 +78,7 @@ Diversity is not just good for the world; it also makes teams [more innovative](
 
 * When networking outside the company, connect to a wide range of professionals, rather than keeping your network homogenous
 
-## Sharing knowledge
+## Sharing knowledge :notebook:
 
 As curious experts, our collective knowledge is one of our greatest assets. Always consider the most effective way to share knowledge, not just for short-term gains, but also helping the team in the long term. 
 
@@ -106,7 +106,7 @@ As curious experts, our collective knowledge is one of our greatest assets. Alwa
 
     * You want to share interesting articles, findings, and ideas (email)
 
-## Unblocking yourself
+## Unblocking yourself :bulb:
 
 Everyone at Able Health is a mentor and a mentee. Do not hesitate to ask for help, even if you think you should know the answer. 
 
@@ -130,7 +130,7 @@ Options for unblocking yourself due to lack of ideas or focus:
 
 * Ask someone for help prioritizing
 
-## Navigating ambiguity
+## Navigating ambiguity :cloud:
 
 In much of our work, we will never have all of the facts or have considered all possible scenarios. Thus, we need to work together to find informed and creative ways while living our bias toward action. Here is some guidance for moving forward, following the [design thinking method developed at Stanford](https://dschool.stanford.edu/sandbox/groups/designresources/wiki/36873/attachments/74b3d/ModeGuideBOOTCAMP2010L.pdf?sessionID=e29682c7569e583344b123a7116d9172e65e8531):
 
@@ -146,7 +146,7 @@ In much of our work, we will never have all of the facts or have considered all 
 
 6. Converge on a way forward. What path forward will get us to our goal? Use voting, prioritization grids, or other methods to get to alignment. Remember that shorter projects, experiments, and prototypes preserve the option to pivot later on.
 
-## Surfacing disagreements
+## Surfacing disagreements :raising_hand:
 
 As curious experts, we work in service of the truth. To that end, we uphold the "obligation to dissent" with any statement we disagree with. However, it should be done carefully so as to consider all viable facts and ideas and preserve an open environment. Assume that the other person has good intentions and is putting forth their best effort.
 
@@ -162,7 +162,7 @@ Remember that the goal is to find truth, not to win. And that we are all subject
 
 At some point, decisions must be reached. Know when to move on, and establish a method for converging on a path forward in order to exercise our bias toward action.
 
-## Dealing with conflict
+## Dealing with conflict :rage3:
 
 In our work, we embrace healthy and respectful conflict as a way of getting to better solutions. Research on conflict by [Jehn](http://www.jstor.org/stable/2393737?seq=1#page_scan_tab_contents) and later elaborated on by [Bendersky and Hays](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1298494) has identified four different types of interpersonal conflict. Before dealing with the conflict, establish which type of conflict you are dealing with.
 
@@ -192,7 +192,7 @@ When dealing with a conflict, consider the following steps:
 
 A good way to prevent conflicts is to get to know the people you work with personally. Do you know what motivates them? Or what experiences have shaped their work style? Or the overall context shaping their decisions and actions?
 
-## Making mistakes
+## Making mistakes :boom:
 
 We are not perfect, and we don’t pretend to be. We strive to do the best job we can. As comrades in service, when we make mistakes, we acknowledge them with humility, resolve them as quickly as we can, and learn from them so that we grow stronger.
 
@@ -221,7 +221,7 @@ When a colleague makes a mistake:
 * Check in with others on how they are feeling, and see if there is anything you can do to help them.
 
 
-## Exchanging feedback effectively
+## Exchanging feedback effectively :speech_balloon:
 
 In order to grow as curious experts, we must openly given and receive feedback. We strive toward a compassionate culture that solicits feedback. Feedback is more effective when emphasizing shared goals and good intent by the person giving feedback. Toward that end, consider the [non-violent communication approach outlined by Innerspace](http://www.helloinnerspace.org/private/AbleHealth_communication_workshop_20160418) as a guide.
 
@@ -257,7 +257,7 @@ End with agreements:
 
 One of the quickest ways to derail honest communication is by presuming to know the intentions of the other person. Remember to "stay on your side of the net"—focus on specific, observable behavior and ask the other person about their motives and intentions.
 
-## Interacting with customers
+## Interacting with customers :briefcase:
 
 While we each bring a different perspective and set of expertise to customer interactions, we work with customers with a common voice and approach. This includes:
 
@@ -269,7 +269,7 @@ While we each bring a different perspective and set of expertise to customer int
 
 # Company policies: our expectations of each other
 
-## Team meetings
+## Team meetings :clipboard:
 
 * Product standup at 9:50am every day
 
@@ -281,7 +281,7 @@ While we each bring a different perspective and set of expertise to customer int
 
 * Quarterly feedback
 
-## Availability etiquette
+## Availability etiquette :vertical_traffic_light:
 
 * You should be generally available during PST 10am - 6pm. 
 
@@ -297,7 +297,7 @@ While we each bring a different perspective and set of expertise to customer int
 
 * Solicit and expect feedback from peers on whether your schedule is negatively impacting collaboration.
 
-## Being "on call"
+## Being "on call" :phone:
 
 * In general, we adhere to the following communication norms:
 
@@ -313,7 +313,7 @@ While we each bring a different perspective and set of expertise to customer int
 
 * Expect to be on call once in awhile in crunch times.
 
-## Vacation
+## Vacation :palm_tree:
 
 * Able Health does not have an official number of PTO days. Team members are expected to take the time they need to remain enthusiastic and productive at work.
 
