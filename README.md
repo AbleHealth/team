@@ -1,6 +1,6 @@
 # Able Health Culture Guide
 
-Being an Able team member means participating in a collective purpose and way of working. This guide is a living document that outlines our current intentions for what we do and how we work. Like our company, it is an evolving entity, open to experimentation and feedback.
+Being an Able team member means participating in a collective purpose and way of working. This guide is a living document that outlines our current intentions for what we do and how we work. Like our company, it is an evolving entity, open to experimentation and feedback. Please make suggested changes by using a [pull request](http://michaeljaylissner.com/posts/2014/10/06/editing-on-github-a-non-technical-explainer/#make-your-change). If you have any questions on how to do that, reach out to any member of the engineering or product teams.
 
 # Table of contents
 
