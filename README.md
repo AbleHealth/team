@@ -10,6 +10,11 @@ Being an Able team member means participating in a collective purpose and way of
    - [Curious experts](#curious-experts)
    - [Comrades in service](#comrades-in-service)
    - [Biased toward action](#biased-toward-action)
+3. [Getting started: your first day at Able](#getting-started)
+   - [Get a lay of the land](#get-a-lay-of-the-land)
+   - [Refine your role](#refine-your-role)
+   - [Start collaborating](#start-collaborating)
+   - [Contribute right away](#contribute-right-away)
 4. [Team norms: how we work together](#team-norms-how-we-work-together)
    - [Honoring diversity](#honoring-diversity)
    - [Sharing knowledge](#sharing-knowledge)
@@ -54,6 +59,28 @@ You want to improve the lives of others, whether those people are customers, cow
 
 You act on problems when you see them. You work in service of outcomes, not appearances. You deliver incrementally to get to the right solution faster. You follow through on your promises. You produce high-quality work. You speak up when you disagree. You communicate directly. You own your failures, and you learn from them.
 
+# Getting started: your first week at Able
+
+If you're joining the Able Health team, welcome aboard! Here are some things you can expect to happen in your first week to help set you up for success at Able.
+
+## Get a lay of the land
+
+On your first day, you'll meet with your assigned 'point person.' Think of your point person as your guide to getting acquainted with Able and succeeding over time. We will be ready by the time you join with your IT accounts, paperwork, and HIPAA training so you can hit the ground running. Within your first week, expect to meet with everyone on the team to get exposed to each of Able Health's functional areas and how they impact your work.
+
+## Refine your role
+
+After things settle down, you will meet with your point person to refine your role and goals. Your role at Able Health is not a title—it is a living list of responsibilities that may span functional areas. As your aspirations and the team's expectations change, your responsibilities may shift or grow. No pigeon-holing here.
+
+You will also set six-month goals for what you want to achieve professionally and personally at Able. Your role and goals will be published for the full team to see, and you should expect to receive feedback on these areas of impact and personal growth. You will meet one-on-one with your point person regularly to check in on your role and goals, and you are free to work with your point person on any personal career goals that you do not wish to publish.
+
+## Start collaborating
+
+We use a collaboration tool called Podio to manage our information, communication, and project management. All of the company's projects are documented for your browsing. Spend some time getting acquainted with our onboarding materials and any resources or projects you find interesting. Say "Hello world" to the Employee Network!
+
+## Contribute right away
+
+Expect to contribute real work on your first day that moves the company forward. We are all here to support you if you have any questions, and expect to exchange feedback with the team regularly. Read on for more about how we work at Able Health.
+
 # Team norms: how we work together
 
 ## Honoring diversity :earth_americas:
@@ -92,19 +119,21 @@ As curious experts, our collective knowledge is one of our greatest assets. Alwa
 
     * Processes are easily automatable, e.g. using automated tests in place of a comprehensive style guide
 
-* Document plans and decisions. Prefer this when:
+* Document plans and decisions in Podio. Prefer this when:
 
-    * Team members will want to refer back to plans, processes, specifications, instructions, or meeting notes (team wiki or Google Drive)
+    * Team members will want to refer back to plans, processes, specifications, instructions, or meeting notes (Podio apps)
 
-    * Tasks are assigned (Trello)
+    * Tasks are assigned (Podio tasks)
+
+    * You want to share interesting articles, findings, and ideas (Podio workspace)
+
+    * You want to say hey (Podio Employee Network)
 
     * User stories are created or updated (Pivotal Tracker)
 
-    * You need to share sensitive information or passwords (LastPass)
+    * You need to share passwords or sensitive (non-PHI) information (LastPass)
 
-    * You find relevant research and whitepapers (Google Drive)
-
-    * You want to share interesting articles, findings, and ideas (email)
+Note that Podio does allow for private exchange of information. This can be done through the chat function or by assigning private tasks.
 
 ## Unblocking yourself :bulb:
 
@@ -112,7 +141,7 @@ Everyone at Able Health is a mentor and a mentee. Do not hesitate to ask for hel
 
 Options for unblocking yourself due to lack of information:
 
-* Search for information in Able Health documentation or online
+* Search for information in Podio or on the web
 
 * Ask an immediate team member for information
 
@@ -124,7 +153,7 @@ Options for unblocking yourself due to lack of ideas or focus:
 
 * Schedule a timeboxed session to brainstorm collaboratively or independently, using [ideation techniques and prompts developed by Alex Osborn](https://web.stanford.edu/class/engr110/2010/Curtis-02b.pdf)
 
-* Reference aligning artifacts—such as Hills, Project KPIs, Customer and User Personas, Company Values, and Brand Principles—to filter ideas and tasks
+* Reference aligning artifacts—such as Hills, Project KPIs, Customer and User Personas, Company Values, and Brand Principles (all available on Podio)—to filter ideas and tasks
 
     * If alignment artifacts have not been generated for your current project, generating or asking for them may help the team focus
 
@@ -134,17 +163,19 @@ Options for unblocking yourself due to lack of ideas or focus:
 
 In much of our work, we will never have all of the facts or have considered all possible scenarios. Thus, we need to work together to find informed and creative ways while living our bias toward action. Here is some guidance for moving forward, following the [design thinking method developed at Stanford](https://dschool.stanford.edu/sandbox/groups/designresources/wiki/36873/attachments/74b3d/ModeGuideBOOTCAMP2010L.pdf?sessionID=e29682c7569e583344b123a7116d9172e65e8531):
 
-1. Sense the need for design thinking. This could surface from a fundamental misalignment among disciplines or a lack of confidence in any known approaches for a given project, task, or process. Pause and suggest taking a step back in order to find common ground.
+1. Sense the need for design thinking. This could surface from a fundamental misalignment among disciplines or a lack of confidence in any known approaches for a given project, task, or process. Often this manifests in a deliverable one discipline thought would be simple to complete but then snowballed once made public. 
 
-2. Align on a goal. What should the project or task should accomplish?
+2. Pause and suggest taking a step back in order to find common ground. Find the right time to work through it.
 
-3. Frame the problem. What is blocking us from achieving our goal?
+3. Align on a goal. What should the project or task should accomplish?
 
-4. Gather facts. What do we know about the problem and what do we still need to find out in order to confidently design a solution?
+4. Frame the problem. What is blocking us from achieving our goal?
 
-5. Diverge together. Based on a common understanding of the available information, what solutions might address the problem? Brainstorm and visualize solutions in a time-boxed session, feeding off of each other's ideas.
+5. Gather facts. What do we know about the problem and what do we still need to find out in order to confidently design a solution?
 
-6. Converge on a way forward. What path forward will get us to our goal? Use voting, prioritization grids, or other methods to get to alignment. Remember that shorter projects, experiments, and prototypes preserve the option to pivot later on.
+6. Diverge together. Based on a common understanding of the available information, what solutions might address the problem? Brainstorm and visualize solutions in a time-boxed session, feeding off of each other's ideas.
+
+7. Converge on a way forward. What path forward will get us to our goal? Use voting, prioritization grids, or other methods to get to alignment. Remember that shorter projects, experiments, and prototypes preserve the option to pivot later on.
 
 ## Surfacing disagreements :raising_hand:
 
@@ -219,7 +250,6 @@ When a colleague makes a mistake:
 * Support affected team members regardless of who’s at fault.
 
 * Check in with others on how they are feeling, and see if there is anything you can do to help them.
-
 
 ## Exchanging feedback effectively :speech_balloon:
 
