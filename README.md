@@ -20,6 +20,7 @@ Being an Able team member means participating in a collective purpose and way of
    - [Setting goals](#setting-your-goals)
    - [Honoring diversity](#honoring-diversity)
    - [Sharing knowledge](#sharing-knowledge)
+   - [Assigning work](#assigning-work)
    - [Unblocking yourself](#unblocking-yourself)
    - [Navigating ambiguity](#navigating-ambiguity)
    - [Surfacing disagreements](#surfacing-disagreements)
@@ -64,53 +65,51 @@ You act on problems when you see them. You work in service of outcomes, not appe
 
 # Getting started: your first week at Able
 
-If you're joining the Able Health team, welcome aboard! Here are some things you can expect to happen in your first week to help set you up for success at Able.
+If you're joining the Able Health team, welcome aboard! Here are some things you can expect to happen in your first week to help set you up for success.
 
 ## Get a lay of the land :sunrise_over_mountains:
 
-On your first day, you'll meet with your assigned 'point person.' Think of your point person as your guide to getting acquainted with Able and succeeding over time. We will be ready by the time you join with your IT accounts, paperwork, and HIPAA training so you can hit the ground running. Within your first week, expect to meet with everyone on the team to get exposed to each of Able Health's functional areas and how they impact your work.
+On your first day, you'll meet with your assigned 'point person.' Think of your point person as your guide to getting acquainted with Able and succeeding over time. We will also be ready with your IT accounts, paperwork, and HIPAA training so you can hit the ground running. Within your first week, expect to meet with everyone on the team to get exposed to each of Able Health's functional areas and how they impact your work.
 
 ## Refine your role :scroll:
 
-After things settle down, you will meet with your point person to refine your role and goals. Your role at Able Health is not a title—it is a living list of responsibilities that may span functional areas. As your aspirations and the team's expectations change, your responsibilities may shift or grow. No pigeon-holing here.
+Once you get settled, you'll meet with your point person to refine your role and goals. Your role at Able Health is not a title—it is a living list of responsibilities that may span functional areas. As your aspirations and the team's expectations change, your responsibilities may shift or grow. No pigeon-holing here.
 
-You will also set six-month goals for what you want to achieve professionally and personally at Able. Your role and goals will be published for the full team to see, and you should expect to receive feedback on these areas of impact and personal growth. You will meet one-on-one with your point person regularly to check in on your role and goals, and you are free to work with your point person on any personal career goals that you do not wish to publish.
+You'll also set half-year goals for what you want to achieve professionally and personally at Able. Your role and goals will be published for the full team to see, and you should expect to receive feedback on these areas of impact and growth. Meet one-on-one with your point person regularly to check in on your role and goals, as well as discuss any personal ambitions that you do not wish to publish.
 
 ## Start collaborating :family:
 
-We use a collaboration tool called Podio to manage our information, communication, and project management. All of the company's projects are documented for your browsing. Spend some time getting acquainted with our onboarding materials and any resources or projects you find interesting. Say "Hello world" to the Employee Network!
+We use a collaboration platform called Podio to manage our information, communication, and project management. All of the company's projects are documented on Podio for your browsing. Spend some time getting acquainted with our onboarding materials and any resources or projects you find interesting. And say "Hello world" to the Employee Network!
 
 ## Contribute right away :checkered_flag:
 
-Expect to contribute real work on your first day that moves the company forward. We are all here to support you if you have any questions, and expect to exchange feedback with the team regularly. Read on for more about how we work at Able Health.
+Expect to contribute real work on your first day that moves the company forward. We are all here to support you if you have any questions. Read on for more about how we work day-to-day.
 
 # Team norms: how we work together
 
 ## Managing your role :memo:
 
-At Able Health, it is the responsibility of you and your point person to keep your role up-to-date. Your role is not confined to a particular title but rather the marriage of your skills, the company's needs, and your aspirations. We keep our role description up to date in Podio in order to ensure other team members understand what we are responsible for and track changes to our own roles. 
-
-Work with your point person to update your own rol, and refer to other team members’ role descriptions to determine who is responsible for broad areas of work. We review our role descriptions at least twice a year, in July and January, along with our cycle for setting goals.
+At Able Health, it is the responsibility of you and your point person maintain your role description. Your role is not confined to a particular title but rather the marriage of your skills, the company's needs, and your aspirations. We keep our role descriptions up to date in Podio to ensure other team members understand what we are responsible for and track changes. You can refer to other team members' role descriptions at any time to understand who is currently responsible for what work. We review our role descriptions at least twice a year, in January and July, along with our cycle for setting goals.
 
 Your role consists of the following elements:
 
 | Section | Description |
 | --- | --- |
 | Introduction | A few sentences describing your mission and role at Able Health |
-| My responsibilities | A list of general areas where you operate (e.g. “Outbound sales”) and your responsibilities within each area (e.g. “Creating and managing sales email campaigns”) |
+| My responsibilities | A list of functional areas in which you operate (e.g. “Outbound sales”) and your responsibilities within each area (e.g. “Creating and managing sales email campaigns”) |
 | My skills | Things you are good at and can help other people with |
 | How I like to work | Work style and preferences that you would like team members to be aware of (e.g. “I work out at lunchtime,” “I like to leave by 6 pm,” or “I usually listen for awhile before I speak up”) |
-| What I need from you | What other team members can do to help make you successful (e.g. “Real-time feedback,” or “Scheduling feedback sessions with me to make sure I’m prepared to listen intently”) |
+| What I need from you | What other team members can do to help make you successful (e.g. “Real-time feedback,” or “Scheduling feedback sessions with me in advance to ensure I’m engaged”) |
 
 ## Setting goals :rocket:
 
-We set goals with our point people two times a year, in January and July. We recognize the company may go through major changes in this time, and you may revisit the applicability of your goals with your point person.
+We set goals with our point people twice a year, in January and July. We recognize the company may go through major changes in this time, and you may revisit the applicability of your goals with your point person.
 
 We use the following framework, aiming for 3-4 of each type of goal:
 
 | Goal type | Description |
 | --- | --- |
-| Professional goals | Objectives and key results that you want to achieve in your job in the next 6 months, and which link to the overall company strategy |
+| Professional goals | Objectives and key results that you want to achieve in your job in the next 6 months, and which link to the company's overall strategy |
 | Personal goals | Work-related personal development initiatives that you want to focus on in the next 6 months and you are willing to share with your team members to help keep you accountable |
 
 These goals will be made public to the company on Podio. In addition to these goals, you should work with your point person at any time to work on more private or longer-term career ambitions that do not fit within this framework.
@@ -175,11 +174,11 @@ Any team member can assign tasks to any other via Podio, under the following con
 
 - Attach the task to the most specific relevant Podio object. Most ideal is an item (e.g. a blog post), then an app (e.g. Content), and then a workspace (e.g. Marketing).
 
-- Only assign a deadline when it is absolutely needed. Err on the side of allowing people to prioritize their own work, and provide additional context to help the assignee prioritize in the task description.
+- Only assign a deadline when it is absolutely needed. Err on the side of allowing people to prioritize their own work, and provide additional context in the task description to help the assignee prioritize.
 
 - Tasks may be public or private.
 
-- Don't expect the task to get completed right away. You will be informed when the assignee sets their own deadline or comments on the task.
+- Be patient, unless the task is urgent. You will be notified whenever the assignee sets their own deadline or comments on the task. If the priority or timeline of your dependency changes, comment on the task and let the assignee know so they can reprioritize.
 
 ## Unblocking yourself :bulb:
 
@@ -334,9 +333,9 @@ One of the quickest ways to derail honest communication is by presuming to know 
 
 ## Being a point person :point_up:
 
-Point people are our guides to help us define our roles and set and meet goals on an ongoing basis. Everyone in the company has a point person, and they are not managers. That means that point people have a unique set of responsibilities at Able Health. These include:
+Point people are our guides to help us define our roles and set and meet goals on an ongoing basis. Everyone in the company has a point person—even the CEO. Point people are not managers, and that means they people have a unique set of responsibilities at Able Health. These include:
 
-* Working with team members to define roles and set goals in July and January
+* Working with team members to define roles and set goals in January and July
 
 * Meeting one-on-one with team members on a regular basis
 
@@ -348,7 +347,7 @@ Point people are our guides to help us define our roles and set and meet goals o
 
 Point people _do not_ have the inherent authority to assign work or make decisions related to compensation, promotion, demotion, or firing.
 
-A great person can advocate on behalf of both the team member you are responsible for and the needs of the company in order to help the team member thrive and make impact at Able Health.
+A great point person can advocate on behalf of both the team member and the needs of the company in order to help the team member thrive and make the greatest possible impact at Able Health.
 
 ## Interacting with customers :briefcase:
 
