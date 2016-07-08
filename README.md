@@ -30,6 +30,7 @@ Being an Able team member means participating in a collective purpose and way of
    - [Being a point person](#being-a-point-person)
    - [Interacting with customers](#interacting-with-customers)
 5. [Company policies: our expectations of each other](#company-policies-our-expectations-of-each-other)
+   - [Information security and privacy](#information-security-and-privacy)
    - [Team meetings](#team-meetings)
    - [Availability etiquette](#availability-etiquette)
    - [Being “on call”](#being-on-call)
@@ -360,6 +361,10 @@ While we each bring a different perspective and set of expertise to customer int
 * A trust in integrity. It is up to each of us to build trust and make our customers feel secure. Thus, we act reliably by following through on our promises, respecting our customers' information, acting in compliance with laws and contracts.
 
 # Company policies: our expectations of each other
+
+## Information security and privacy :lock:
+
+Able Health's customers entrust us with a significant amount of protected health information (PHI). As such, we take great care to ensure the security and privacy of potentially sensitive information. All team members receive HIPAA training and may refer to our HIPAA policies and procedures at any time for further details.
 
 ## Team meetings :clipboard:
 
