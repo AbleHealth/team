@@ -368,7 +368,7 @@ Able Health's customers entrust us with a significant amount of protected health
 
 ## Team meetings :clipboard:
 
-* Product standup at 9:45am every day
+* Product standup at 9:30am every day
 
 * Business standup at 10am every day
 
