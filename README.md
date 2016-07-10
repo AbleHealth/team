@@ -404,7 +404,7 @@ Able Health's customers entrust us with a significant amount of protected health
 
     * Need you in the next hour: Podio chat
 
-    * Need you within the day or longer: Podio chat, update, or task
+    * Need you within the day or longer: Podio update or task, or (for private communication) Podio chat or private task
 
 * Set expectations with your team about your particular availability and communication preferences (e.g. if people need to get in touch over the weekend, should they call? email?).
 
