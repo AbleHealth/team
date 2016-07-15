@@ -23,8 +23,8 @@ Being an Able team member means participating in a collective purpose and way of
    - [Interacting with customers](#interacting-with-customers-briefcase)
 1. [Company policies: our expectations of each other](#company-policies-our-expectations-of-each-other)
    - [Information security and privacy](#information-security-and-privacy-lock)
-   - [Team meetings](#team-meetings-clipboard-vertical_traffic_light)
-   - [Availability etiquette](#availability-etiquette)
+   - [Team meetings](#team-meetings-clipboard)
+   - [Availability etiquette](#availability-etiquette-vertical_traffic_light)
    - [Being “on call”](#being-on-call-phone)
    - [Vacation](#vacation-palm_tree)
 
