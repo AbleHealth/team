@@ -203,11 +203,13 @@ When dealing with a conflict, consider the following steps:
 
 4. Establish a common goal and the type of conflict from the above list you are facing. Assume the other person has good intentions.
 
-5. Bring facts to the table.
+5. When you don't understand where the other person is coming from, try asking, "Can you let me know why this is important?"
 
-6. Find a way forward.
+6. Bring facts to the table.
 
-7. Escalate conflict if unresolved and detrimental to work.
+7. Find a way forward.
+
+8. Escalate conflict if unresolved and detrimental to work.
 
 A good way to prevent conflicts is to get to know the people you work with personally. Do you know what motivates them? Or what experiences have shaped their work style? Or the overall context shaping their decisions and actions?
 
