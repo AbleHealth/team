@@ -203,7 +203,7 @@ When dealing with a conflict, consider the following steps:
 
 4. Establish a common goal and the type of conflict from the above list you are facing. Assume the other person has good intentions.
 
-5. When you don't understand where the other person is coming from, try asking, "can you let me know why this is important?"
+5. When you don't understand where the other person is coming from, try asking, "Can you let me know why this is important?"
 
 6. Bring facts to the table.
 
