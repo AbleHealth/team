@@ -52,7 +52,7 @@ We work in short, 1-week milestones (an "iteration"). The goal of each milestone
 In keeping with `insiting on extreme visibility` and `trust and empower` we seek to review code all the time through pair programming and (less often) through pull requests.
 - You always have your pair or the team to help you, and you should seek to help out others on the team when they’re stuck.
 - If you need to work on an idea alone, go for it. When you’re done exploring, bring back the resulting idea, not the code, back to the team/your partner.
-- Pairing is tiring but satisfying: most people can’t pair for more than five or six hours a day. I recommend taking a 5 minute break for every 45-50 minute session of work, and a 15 minute break for every three sessions. Pomodoro One is a great, free timer to remind you and your pair to take breaks at set intervals. If you or your pair want a break, take it and resume when you’re both ready.
+- Pairing is tiring but satisfying: most people can’t pair for more than five or six hours a day. We recommend taking a 5 minute break for every 45-50 minute session of work, and a 15 minute break for every three sessions. Pomodoro One is a great, free timer to remind you and your pair to take breaks at set intervals. If you or your pair want a break, take it and resume when you’re both ready.
 
 ### Tests are more important than code
 - Tests give us confidence that any change we make doesn’t break something else, even if it’s "unrelated"
