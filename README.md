@@ -296,18 +296,6 @@ While we each bring a different perspective and set of expertise to customer int
 
 Able Health's customers entrust us with a significant amount of protected health information (PHI). As such, we take great care to ensure the security and privacy of potentially sensitive information. All team members receive HIPAA training and may refer to our HIPAA policies and procedures at any time for further details.
 
-## Team meetings :clipboard:
-
-* Product standup at 9:30am every day
-
-* Business standup at 10am every day
-
-* Retro Fridays at 1 pm
-
-* Monthly business update
-
-* Quarterly feedback
-
 ## Availability etiquette :vertical_traffic_light:
 
 * You should be generally available during PST 10am - 6pm. 
