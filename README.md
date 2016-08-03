@@ -298,9 +298,13 @@ Able Health's customers entrust us with a significant amount of protected health
 
 ## Team meetings :clipboard:
 
-* Monthly business update
-
-* Quarterly feedback
+* Daily Engineering standup (Engineering team)
+* Daily Business standup (Product, Engineering, Business)
+* Alternating, biweekly retrospectives:
+  * Product Team retro (everyone who works on product)
+  * Full Team retro (All Able staff)
+* Monthly business update (All Able staff)
+* Quarterly feedback (All Able staff)
 
 ## Availability etiquette :vertical_traffic_light:
 
