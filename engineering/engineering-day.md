@@ -15,4 +15,4 @@ Engineers and product work in one unified team ("product") :sun_with_face: :new_
     - More team expertise around data integration and denormalized data. We can always use more! :pig:
   * **Team wonders**: 
     - How can we do better at sourcing potential new team members from a variety of backgrounds and experiences? :globe_with_meridians:
-    - Who can help us modernize healthcare infrastructure using platforms and tools like Kubernetes :map:, Terraform, :earth_americas: and Docker? :whale:
+    - Who can help us modernize healthcare infrastructure using platforms and tools like Kubernetes :anchor:, Terraform, :earth_americas: and Docker? :whale: 
