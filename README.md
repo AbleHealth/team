@@ -300,9 +300,7 @@ Able Health's customers entrust us with a significant amount of protected health
 
 * Daily Engineering standup (Engineering team)
 * Daily Business standup (Product, Engineering, Business)
-* Alternating, biweekly retrospectives:
-  * Product Team retro (everyone who works on product)
-  * Full Team retro (All Able staff)
+* Weekly Product retrospective: (everyone who works on product)
 * Monthly business update (All Able staff)
 * Quarterly feedback (All Able staff)
 
