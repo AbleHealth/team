@@ -1,6 +1,6 @@
 # Able Health Coding Requests
 
-The goal of the Able Health coding request is to help us obtain some understanding about your coding style and approach, as well as to see something technical you are proud of.   It helps us when thinking about your technical skills as it applies to the typical projects we do.  Most of our current work is done in some combination of Ruby, Ruby-on-Rails, and commonly used technologies like Javascript and PostgreSQL as it applies to the full technology stack.
+The goal of the Able Health coding request is to help us obtain some understanding about your coding style and approach, as well as to see something technical you are proud of.   It helps us when thinking about your technical skills as it applies to the typical projects we do.  Most of our current work is done in some combination of Ruby, Ruby-on-Rails, and commonly used technologies like Javascript and PostgreSQL as it applies to our full technology stack.
 
 Please ensure that the quality of work you submit is consistent with how you'd like to be viewed.
 
