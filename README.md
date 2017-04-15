@@ -39,17 +39,17 @@ Our vision is the future state we hope to create in pursuit of our mission:
 Our values are what we believe to be true and how we aim to conduct ourselves, both internally and externally. They are the qualities that define an Able Health team member, to be used as a moral compass and to guide screening for new team members. At Able Health, you...
 
 ## Lift others up :couple:
-...because we all do better when we help others succeed
+*...because we all do better when we help others succeed*
 
 You want to improve the lives of others, whether those people are customers, coworkers, or strangers. You recognize that small interpersonal actions build lifelong relationships. You value those relationships over short-term gains. You respect that everyone has unique motivations and contexts. You want to help others succeed rather than promote yourself. You seek to spread delight.
 
 ## Follow your curiosity :bow:
-...because information and ideas keep us innovative
+*...because information and ideas keep us innovative*
 
 You hungrily gather new knowledge—sometimes outside your familiar domains. You share information and ideas openly with the team. You honor a diversity of strengths and perspectives. You welcome respectful debate. You make space for everyone to get their ideas on the table. You know you don’t know everything and listen with an open mind. You bring all available information to bear on your decisions. You are a mentor and a mentee for life.
 
 ## Pursue excellence :runner:
-...because lives and livelihoods are on the line
+*...because lives and livelihoods are on the line*
 
 You take pride in high-quality work. You act on problems when you see them. You work in service of outcomes, not appearances. You deliver incrementally to get to the right solution faster. You follow through on your agreements. You speak up when you disagree. You communicate directly. You celebrate successes, own your failures, and seek to do better.
 
