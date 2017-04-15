@@ -55,7 +55,7 @@ You take pride in high-quality work. You act on problems when you see them. You 
 
 # Team norms: how we work together
 
-## Honoring diversity :earth_americas:
+## Embracing diversity :earth_americas:
 
 We are committed to creating and sustaining a culture that embodies diverse walks of life, ideas, genders, ages, races, cultures, sexual orientations, abilities and other unique qualities of our employees. We strive to offer a workplace where every employee feels empowered by the ways in which we are different, as well as the ways in which we are the same. 
 
