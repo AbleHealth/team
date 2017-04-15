@@ -10,20 +10,17 @@ This guide is a living document that outlines our current intentions for what we
 1. [Mission: why we exist](#mission-why-we-exist)
 1. [Vision: what we hope to achieve](#vision-what-we-hope-to-achieve)
 1. [Values: who we are](#values-who-we-are)
-   - [Curious experts](#curious-experts-bow)
-   - [Comrades in service](#comrades-in-service-couple)
-   - [Biased toward action](#biased-toward-action-runner)
+   - [Lift others up](#lift-others-up-couple)
+   - [Follow your curiosity](#follow-your-curiosity-bow)
+   - [Pursue excellence](#pursue-excellence-runner)
 1. [Team norms: how we work together](#team-norms-how-we-work-together)
-   - [Honoring diversity](#honoring-diversity-earth_americas)
+   - [Embracing diversity](#embracing-diversity-earth_americas)
    - [Sharing knowledge](#sharing-knowledge-notebook)
-   - [Assigning work](#assigning-work-white_check_mark)
    - [Unblocking yourself](#unblocking-yourself-bulb)
    - [Navigating ambiguity](#navigating-ambiguity-cloud)
-   - [Surfacing disagreements](#surfacing-disagreements-raising_hand)
-   - [Dealing with conflict](#dealing-with-conflict-rage3)
+   - [Maintaining healthy dialogue](#maintaining-healthy-dialogue-raising_hand)
    - [Making mistakes](#making-mistakes-boom)
    - [Exchanging feedback effectively](#exchanging-feedback-effectively-speech_balloon)
-   - [Interacting with customers](#interacting-with-customers-briefcase)
 
 # Mission: why we exist
 
@@ -51,7 +48,7 @@ You want to improve the lives of others, whether those people are customers, cow
 
 You hungrily gather new knowledge—sometimes outside your familiar domains. You share information and ideas openly with the team. You honor a diversity of strengths and perspectives. You welcome respectful debate. You make space for everyone to get their ideas on the table. You know you don’t know everything and listen with an open mind. You bring all available information to bear on your decisions. You are a mentor and a mentee for life.
 
-## Pursue excellence :star2:
+## Pursue excellence :runner:
 ...because lives and livelihoods are on the line
 
 You take pride in high-quality work. You act on problems when you see them. You work in service of outcomes, not appearances. You deliver incrementally to get to the right solution faster. You follow through on your agreements. You speak up when you disagree. You communicate directly. You celebrate successes, own your failures, and seek to do better.
