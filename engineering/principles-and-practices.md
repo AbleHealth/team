@@ -48,11 +48,12 @@ You can read more about our CI process [here](https://docs.google.com/document/d
 ### Short iterations
 We work in short, 1-week milestones (an "iteration"). The goal of each milestone build is to show progress (which keeps us honest) and to deliver it with a high enough level of quality that our community can really use it and provide feedback (which keeps us even more honest).
 
-### Code review all the time
-In keeping with `insisting on extreme visibility` and `trust and empower` we seek to review code all the time through pair programming and (less often) through pull requests.
-- You always have your pair or the team to help you, and you should seek to help out others on the team when they’re stuck.
-- If you need to work on an idea alone, go for it. When you’re done exploring, bring back the resulting idea, not the code, back to the team/your partner.
-- Pairing is tiring but satisfying: most people can’t pair for more than five or six hours a day. We recommend taking a 5 minute break for every 45-50 minute session of work, and a 15 minute break for every three sessions. Pomodoro One is a great, free timer to remind you and your pair to take breaks at set intervals. If you or your pair want a break, take it and resume when you’re both ready.
+### Get multiple eyes on code before shipping
+In keeping with `insisting on extreme visibility` and `trust and empower` we seek to collaborate on design and review code through:
+- Design sessions, which are best when multiple perspectives and team alignment on the approach to a project or story are helpful
+- Pair programming, which is best when the domain is new, errors are likely or costly, or team members are unfamiliar with the portion of the codebase
+- Pull requests, which are required when code is not paired on to ensure quality and maintainability of code
+If pull request comments include major architectural feedback, this is an indication that more work to collaborate and align the team would have been helpful in advance of delivering the code.
 
 ### Tests are more important than code
 - Tests give us confidence that any change we make doesn’t break something else, even if it’s "unrelated"
