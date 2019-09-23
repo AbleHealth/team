@@ -133,7 +133,7 @@ We can build trust through dialogue, and come to a conclusion that does not take
 | Seeing two sides of an issue                                      | Seeing all sides of an issue                                          |
 | Defending one's own views against those of others                 | Admitting that others' thinking can improve one's own                 |
 | Searching for flaws and weaknesses in others' positions           | Searching for strengths and value in others' positions                |
-| By creating a winner and a loser, discouraging further discussion | Keeping the topic even after the discussion formally ends             |
+| By creating a winner and a loser, discouraging further discussion | Keeping the topic open, even after the discussion formally ends             |
 | Seeking a conclusion or vote that ratifies your position          | Discovering new options, not seeking closure                          |
 
 Remember that the goal is to find truth, not to win. And that we are all subject to the [Dunning-Kruger effect](http://rationalwiki.org/wiki/Dunning-Kruger_effect), a failure to accurately assess our own incompetence. 
@@ -172,7 +172,7 @@ When giving feedback:
 
 1. Check in with the person: "Is now a good time?"
 1. Emphasize mutual goals and positive intent: "My intention is…"
-1. Focus on specific, observable behavior: "When do you X…"
+1. Focus on specific, observable behavior: "When you do X…"
 1. Describe the impact of that behavior on you: "...I feel Y."
 1. Ask about the other person's motives and intentions: "What was going on for you?"
 1. Thank the person.
