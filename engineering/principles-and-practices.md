@@ -12,20 +12,20 @@ meeting with the group and everyone says 'yea' to a change, it can simply be mer
 
 As an engineering team, we seek to:
 
-- Build an esprit de corps where the engineering team is inspired to ship high quality software on a predictable schedule
-- Create a culture of trust where engineers feel like they have the freedom to do great work, share vulnerabilities, and inquire
-- Create a culture of inclusion where all engineers feel like they have voice
-- Create a culture of ownership where engineers take responsibility for shipping high quality code, system performance and uptime, and client happiness
-- Foster an environment where engineers are challenged by the work and they strive for excellence and continued improvement
+- Build an [esprit de corps](https://www.dictionary.com/browse/esprit-de-corps) where the engineering team is inspired to ship high quality software on a predictable schedule
+- Create a culture of trust where engineers feel they have the freedom to do great work, share vulnerabilities, and inquire
+- Create a culture of inclusion where all engineers feel they have a voice
+- Create a culture of ownership where engineers take responsibility for shipping high quality code, system performance & uptime, and client happiness
+- Foster an environment where engineers are challenged, strive for excellence and continually improve
 - Encourage a culture of self-organizing teams
 
 ## Our Mission
-__Our mission is not just writing software.__
+__Our mission is more than writing software.__
 
 Our mission in engineering is two-fold:
 
 * **Build and deliver the Able Platform** into the hands of our customers
-* **Seek out ways to make our colleagues' working lives simpler, more pleasant, and more productive.**
+* **Seek out ways to make the working lives of our colleagues simpler, more pleasant, and more productive**
 
 ## Able Engineering Principles
 - Do the work
@@ -38,7 +38,7 @@ Our mission in engineering is two-fold:
 ## Practices
 ### Ship working software often
 
-We use the practice of continuous integration (CI) to integrate all our work into trunk into `master` on a regular basis, as often as possible. A set of automated tests is run both before and after the merge to validate that no regressions are introduced. If these automated tests fail, the team stops what they are doing and someone fixes the problem immediately.
+We use tools like continuous integration (CI) to enable us to merge code frequently to master (multiple times a day). A set of automated tests with very high code coverage (100%) provide assurance that no regressions are introduced. If the tests fail, the team stops what they are doing to fix the problem immediately.
 
 1. All branches pushed to GitHub will be run in CI. When you break the build, it’s up to you (and/or your partner) to fix it.
 2. When master passes CI, it is deployed immediately to a publicly available server.
@@ -64,7 +64,7 @@ If pull request comments include major architectural feedback, this is an indica
 
 ### Design is part of everyone's daily business
 - Use incremental design instead of creating one big design at the beginning of a project. Take small, safe steps and test your designs.
-- A sign that design needs to be reconsidered is whenever you see duplication.
+- Duplication is a sign that design needs to be reconsidered.
 - Refactor mercilessly and with focus.
   - :white_check_mark: Refactor code that is in the direct line of your code path
   - :white_check_mark: Refactor code that makes the delivering feature in progress ultimately much easier
