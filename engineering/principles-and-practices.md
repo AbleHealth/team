@@ -38,7 +38,7 @@ Our mission in engineering is two-fold:
 ## Practices
 ### Ship working software often
 
-We use the practice of continuous integration (CI), merging working code with high frequency to our mainline branch. The means merging to `master` multiple times per day. A set of automated tests with very high code coverage (100%) provide assurance that no regressions are introduced. If the tests fail, the team stops what they are doing to fix the problem immediately.
+We use the practice of continuous integration (CI) where we're frequently merging code into our mainline branch, `master` - often multiple times a day. A set of automated tests with very high code coverage (100%) provide assurance that no regressions are introduced. If the tests fail, the team stops what they are doing to fix the problem immediately.
 
 1. All branches pushed to GitHub will be run in CI. When you break the build, it’s up to you (and/or your partner) to fix it.
 2. When master passes CI, it is deployed immediately to a publicly available server.
